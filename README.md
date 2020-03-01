@@ -1,2 +1,2 @@
-# Youtube
+# ytg
 Youtube Thumbnail Generator
